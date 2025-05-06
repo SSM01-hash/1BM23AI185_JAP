@@ -15,3 +15,14 @@ Program 4A (Workday)
 
 Program 4B (Exam Score Tracker)
 ![image](https://github.com/user-attachments/assets/06a530d5-8d04-4759-a674-17d1b8fb3f2f)
+
+Program 5 (Online Shopping Manager)
+![image](https://github.com/user-attachments/assets/a3b2f30c-61dd-4bac-96c8-0d54c513511e)
+
+Program 7 (Pharmacy Management)
+![image](https://github.com/user-attachments/assets/9825c4c7-d0d2-4987-bd94-86a74662974f)
+
+Program 6 (Generic Queue)
+![image](https://github.com/user-attachments/assets/ecef61c9-600f-487f-8822-d4d1ad3b9475)
+
+Program 8 (Exceptions)
