@@ -25,4 +25,5 @@ Program 7 (Pharmacy Management)
 Program 6 (Generic Queue)
 ![image](https://github.com/user-attachments/assets/ecef61c9-600f-487f-8822-d4d1ad3b9475)
 
-Program 8 (Exceptions)
+Program 8 (Exception Handling)
+![image](https://github.com/user-attachments/assets/dfef9ada-6022-4367-8499-ddba02e988b6)
